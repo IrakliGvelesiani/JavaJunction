@@ -1,6 +1,6 @@
 <h1 align="center">
   Responsive Coffee Shop Website ☕<br/>
-  <a href="https://plantcorner.netlify.app" target="_blank">JavaJunction</a>
+  <a href="https://java-junction.netlify.app" target="_blank">JavaJunction</a>
 </h1>
 
 <br/>
